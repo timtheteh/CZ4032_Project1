@@ -6,8 +6,8 @@
     <td align="center"><img src="https://movielens.org/images/site/movie-details-similar.png" alt="Image 2" width="400"></td>
   </tr>
   <tr>
-    <td align="center">Image 1</td>
-    <td align="center">Image 2</td>
+    <td align="center">GoodReads</td>
+    <td align="center">MovieLens</td>
   </tr>
 </table>
 
