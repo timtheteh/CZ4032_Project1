@@ -1,4 +1,4 @@
-# CZ4032_Project1
+# CZ4032 Project1: Recommendation Systems
 
 <table>
   <tr>
