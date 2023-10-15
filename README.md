@@ -1,4 +1,4 @@
-![image](https://github.com/timtheteh/CZ4032_Project1/assets/76463517/80bd6e5a-8d3d-487c-b7f5-c1a88edab94a)# CZ4032_Project1
+# CZ4032_Project1
 
 <table>
   <tr>
