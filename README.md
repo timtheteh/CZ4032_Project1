@@ -1,4 +1,4 @@
-# CZ4032 Project1: Recommendation Systems
+# CZ4032 Project 1: Recommendation Systems
 
 <table>
   <tr>
@@ -13,15 +13,15 @@
 
 # Abstract
 
-In the age of information overload, recommender systems play a crucial role in helping users discover relevant content, products, and services. This group project aims to explore and evaluate the performance of four distinct methods of recommender systems: Popularity-Based, Collaborative Filtering, Deep Learning, Content Based, and LightFM - on two diverse and widely used datasets: the Goodreads dataset and the MovieLens dataset. This research project seeks to provide insights into the effectiveness of these algorithms in different recommendation scenarios, shedding light on their strengths and weaknesses.
+In the age of information overload, recommender systems play a crucial role in helping users discover relevant content, products, and services. This group project aims to explore and evaluate the performance of four distinct methods of recommender systems: Popularity-Based, Content Based, Collaborative Filtering, Deep Learning, and LightFM - on two diverse and widely used datasets: the Goodreads dataset and the MovieLens dataset. This research project seeks to provide insights into the effectiveness of these algorithms in different recommendation scenarios, shedding light on their strengths and weaknesses.
 
 # Introduction
 
 Our project focuses on understanding and implementing these five recommender systems:
 - Popularity-based: Recommendation engines that are based on user popularity or current trends make recommendations for products. These systems don't account for the unique interests or behaviors of each person. Instead, they recommend products that are regularly read, or frequently watched by many consumers.
+- Content-Based: Content based recommender systems make recommendations by analyzing the content of items (e.g. product descriptions, movie plots etc)  and profiling users based on their interests.
 - Collaborative Filtering: Collaborative filtering recommendation systems are algorithms that make personalized recommendations by analyzing user behavior and preferences, and then suggesting items based on the actions and feedback of similar users.
 - Deep Learning: Neural networks and deep learning techniques are used by deep learning-based recommendation systems to simulate complicated patterns in user behavior and item features. To understand complex correlations and preferences, these systems handle enormous amounts of data, including user interactions and item attributes. Deep learning models are effective for recommendations in settings with large and varied datasets because they are excellent at capturing subtle trends in user behavior.
-- Content-Based: Content based recommender systems make recommendations by analyzing the content of items (e.g. product descriptions, movie plots etc)  and profiling users based on their interests.
 - LightFM: LightFM is a hybrid recommender system that combines collaborative and content-based filtering methods, allowing us to leverage both user-item interactions and additional item metadata.
 
 Our project involves assessing the performance of these algorithms on two diverse and well-known datasets:
